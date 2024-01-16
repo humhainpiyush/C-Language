@@ -14,4 +14,4 @@ int main(){
     
 //same is with the '||' operators. If the first expression is true then rest of the expression is not evaluated
     return 0;
-}
+} 
